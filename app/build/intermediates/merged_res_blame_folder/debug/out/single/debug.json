@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_ic_wave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\splash_ic_wave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_todowave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_todowave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_ic_wave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\splash_ic_wave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_try_again.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_try_again.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_todowave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_todowave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_try_again.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_try_again.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_ic_wave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\splash_ic_wave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_new_user.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_new_user.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_username.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_username.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_check.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\check.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_check.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\check.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_todowave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_todowave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_username.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_username.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_new_user.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_new_user.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_login.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_todo.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\list_item_todo.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_check.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\check.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_todowave.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_todowave.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_try_again.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_try_again.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_border.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_check.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\check.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_try_again.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_try_again.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_new_user.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_new_user.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_username.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_username.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_splash_ic_wave.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\splash_ic_wave.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg_cancel.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\drawable\\round_bg_cancel.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_list_todo.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\fragment_list_todo.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_todowave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_todowave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_todo.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\fragment_edit_todo.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_username.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_username.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_try_again.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_try_again.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_todowave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_todowave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_username.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_username.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash_ic_wave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\splash_ic_wave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_check.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\check.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_edit_todo.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout-land\\fragment_edit_todo.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_username.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_username.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash_ic_wave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\splash_ic_wave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_splash.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\splash.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_ic_wave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\splash_ic_wave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_password.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_password.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_new_user.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_new_user.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_username.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_username.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_password.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_check.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\check.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_try_again.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_try_again.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_new_user.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_new_user.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_try_again.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_try_again.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_new_user.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_new_user.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_todowave.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_todowave.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "H:\\Bikash\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.png.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "H:\\Bikash\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_new_user.xml.flat",
+        "source": "H:\\Bikash\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_new_user.xml"
+    }
+]

@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.finaltodoapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->H:\Bikash\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->H:\Bikash\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->H:\Bikash\app\src\main\AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->H:\Bikash\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->H:\Bikash\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->H:\Bikash\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->H:\Bikash\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->H:\Bikash\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.FinalToDoApp" >
+20-->H:\Bikash\app\src\main\AndroidManifest.xml:11:9-50
+21        <activity
+21-->H:\Bikash\app\src\main\AndroidManifest.xml:12:9-134
+22            android:name="com.example.finaltodoapp.EditActivity"
+22-->H:\Bikash\app\src\main\AndroidManifest.xml:12:19-47
+23            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout" />
+23-->H:\Bikash\app\src\main\AndroidManifest.xml:12:48-122
+24        <activity android:name="com.example.finaltodoapp.SplashActivity" >
+24-->H:\Bikash\app\src\main\AndroidManifest.xml:13:9-19:20
+24-->H:\Bikash\app\src\main\AndroidManifest.xml:13:19-49
+25            <intent-filter>
+25-->H:\Bikash\app\src\main\AndroidManifest.xml:14:13-18:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->H:\Bikash\app\src\main\AndroidManifest.xml:15:17-69
+26-->H:\Bikash\app\src\main\AndroidManifest.xml:15:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->H:\Bikash\app\src\main\AndroidManifest.xml:17:17-77
+28-->H:\Bikash\app\src\main\AndroidManifest.xml:17:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.example.finaltodoapp.RegisterActivity" />
+31-->H:\Bikash\app\src\main\AndroidManifest.xml:20:9-54
+31-->H:\Bikash\app\src\main\AndroidManifest.xml:20:19-51
+32        <activity
+32-->H:\Bikash\app\src\main\AndroidManifest.xml:21:9-135
+33            android:name="com.example.finaltodoapp.LoginActivity"
+33-->H:\Bikash\app\src\main\AndroidManifest.xml:21:19-48
+34            android:configChanges="keyboardHidden|orientation|screenSize|screenLayout" />
+34-->H:\Bikash\app\src\main\AndroidManifest.xml:21:49-123
+35        <activity android:name="com.example.finaltodoapp.MainActivity" />
+35-->H:\Bikash\app\src\main\AndroidManifest.xml:22:9-50
+35-->H:\Bikash\app\src\main\AndroidManifest.xml:22:19-47
+36
+37        <service
+37-->[androidx.room:room-runtime:2.2.6] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\41d0ef89919f6cf380370bafbc1a6aea\room-runtime-2.2.6\AndroidManifest.xml:25:9-28:40
+38            android:name="androidx.room.MultiInstanceInvalidationService"
+38-->[androidx.room:room-runtime:2.2.6] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\41d0ef89919f6cf380370bafbc1a6aea\room-runtime-2.2.6\AndroidManifest.xml:26:13-74
+39            android:directBootAware="true"
+39-->[androidx.room:room-runtime:2.2.6] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\41d0ef89919f6cf380370bafbc1a6aea\room-runtime-2.2.6\AndroidManifest.xml:27:13-43
+40            android:exported="false" />
+40-->[androidx.room:room-runtime:2.2.6] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\41d0ef89919f6cf380370bafbc1a6aea\room-runtime-2.2.6\AndroidManifest.xml:28:13-37
+41
+42        <provider
+42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+43            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+44            android:authorities="com.example.finaltodoapp.lifecycle-process"
+44-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+45            android:exported="false"
+45-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+46            android:multiprocess="true" />
+46-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\07affe4d4ee75ee78ff2e4c9dedbaa4e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+47    </application>
+48
+49</manifest>
